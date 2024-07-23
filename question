@@ -1,0 +1,32 @@
+1. When should we write tha data in blockchain. (Should be sent at last)
+2. Which db we should use befor sending to the blockchain. (file or mongo.)
+3.
+
+
+
+
+
+    **** multiple orgs is required ?
+        it will onlye 1 org
+
+
+            **** Shoulde we rquire filters(convince sandeep for filters)
+    yes, customer id, po number, date
+
+
+
+        **** trace is require ?
+            no
+
+
+
+
+            **** if 3 retrys failed and 4 th success so is it considered as success or error and success
+consider it as one
+
+
+
+
+/// Add last seven days in the query
+/// Pros and cons for the single org network.
+/// Write a steps for deploy network.

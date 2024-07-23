@@ -1,0 +1,206 @@
+{
+    "internalID": "C000001_POTEST",
+    "poNo": "POTEST",
+    "customerID": "C000001",
+    "trace": [
+        {
+            "soLine": "1",
+            "fileCabinate": [
+                {
+                    "apiCall": 1,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:21"
+                },
+                {
+                    "apiCall": 2,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:21"
+                },
+                {
+                    "apiCall": 3,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:21"
+                },
+                {
+                    "apiCall": 4,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:22"
+                }
+            ],
+            "soData": {
+                "DATE": "2024-04-02T14:56:06.341-05:00",
+                "SO_LINE": "1",
+                "PO_NO": "POTEST",
+                "CUSTOMER_ID": "C000001",
+                "ORDER_TAKEN_BY": "EDI",
+                "ORDER_PROCESSED_BY": "EDI",
+                "ORDER_TYPE": "R",
+                "ITEM": "GRILLE_ASERIES",
+                "CUSTOMER_PART_NUMBER": "0333432821122024GRL02",
+                "QUANTITY": "1",
+                "UNITS": "EA",
+                "LOCATION": "230 MOUNDS VIEW",
+                "EXPECTED_SHIP_DATE": "30/01/2024 07:00:00",
+                "CONFIGURATOR_ID": "CONFIGURATOR01",
+                "internalID": "C000001_POTEST_1"
+            }
+        },
+        {
+            "soLine": "2",
+            "fileCabinate": [
+                {
+                    "apiCall": 1,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:21"
+                },
+                {
+                    "apiCall": 2,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:21"
+                },
+                {
+                    "apiCall": 3,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:21"
+                },
+                {
+                    "apiCall": 4,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:22"
+                }
+            ],
+            "soData": {
+                "DATE": "2024-04-02T14:56:06.341-05:00",
+                "SO_LINE": "2",
+                "PO_NO": "POTEST",
+                "CUSTOMER_ID": "C000001",
+                "ORDER_TAKEN_BY": "EDI",
+                "ORDER_PROCESSED_BY": "EDI",
+                "ORDER_TYPE": "R",
+                "ITEM": "GRILLE_ASERIES",
+                "CUSTOMER_PART_NUMBER": "0333432821122024GRL04",
+                "QUANTITY": "1",
+                "UNITS": "EA",
+                "LOCATION": "230 MOUNDS VIEW",
+                "EXPECTED_SHIP_DATE": "30/01/2024 07:00:00",
+                "CONFIGURATOR_ID": "CONFIGURATOR01",
+                "internalID": "C000001_POTEST_2"
+            }
+        },
+        {
+            "soLine": "3",
+            "fileCabinate": [
+                {
+                    "apiCall": 1,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:21"
+                },
+                {
+                    "apiCall": 2,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:21"
+                },
+                {
+                    "apiCall": 3,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:21"
+                },
+                {
+                    "apiCall": 4,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:22"
+                }
+            ],
+            "soData": {
+                "DATE": "2024-04-02T14:56:06.341-05:00",
+                "SO_LINE": "3",
+                "PO_NO": "POTEST",
+                "CUSTOMER_ID": "C000001",
+                "ORDER_TAKEN_BY": "EDI",
+                "ORDER_PROCESSED_BY": "EDI",
+                "ORDER_TYPE": "R",
+                "ITEM": "GRILLE_ASERIES",
+                "CUSTOMER_PART_NUMBER": "0333432791122024GRL02",
+                "QUANTITY": "1",
+                "UNITS": "EA",
+                "LOCATION": "230 MOUNDS VIEW",
+                "EXPECTED_SHIP_DATE": "30/01/2024 07:00:00",
+                "internalID": "C000001_POTEST_3"
+            }
+        },
+        {
+            "soLine": "4",
+            "fileCabinate": [
+                {
+                    "apiCall": 1,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:21"
+                },
+                {
+                    "apiCall": 2,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:21"
+                },
+                {
+                    "apiCall": 3,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:21"
+                },
+                {
+                    "apiCall": 4,
+                    "message": "No line item has the attributes details",
+                    "sFlag": 0,
+                    "eFlag": 1,
+                    "timeStamp": "2024/05/21 16:22"
+                }
+            ],
+            "soData": {
+                "DATE": "2024-04-02T14:56:06.341-05:00",
+                "SO_LINE": "4",
+                "PO_NO": "POTEST",
+                "CUSTOMER_ID": "C000001",
+                "ORDER_TAKEN_BY": "EDI",
+                "ORDER_PROCESSED_BY": "EDI",
+                "ORDER_TYPE": "R",
+                "ITEM": "GRILLE_ASERIES",
+                "CUSTOMER_PART_NUMBER": "0333432791122024GRL04",
+                "QUANTITY": "1",
+                "UNITS": "EA",
+                "LOCATION": "230 MOUNDS VIEW",
+                "EXPECTED_SHIP_DATE": "30/01/2024 07:00:00",
+                "CONFIGURATOR_ID": "CONFIGURATOR01",
+                "internalID": "C000001_POTEST_4"
+            }
+        }
+    ]
+}

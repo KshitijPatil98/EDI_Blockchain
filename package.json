@@ -1,0 +1,27 @@
+{
+  "name": "socreate",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --fix . --ext js --ignore-pattern node_modules/",
+    "start": "nodemon start ./bin/www",
+    "test": "jest"
+  },
+  "author": "Doremon, Incalus, BOM",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "axios-retry": "^4.3.0",
+    "config": "^3.3.11",
+    "cookie-parser": "~1.4.4",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "nodemon": "^3.1.0",
+    "oauth-1.0a": "^2.2.6",
+    "pug": "2.0.0-beta11",
+    "winston": "^3.13.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  }
+}

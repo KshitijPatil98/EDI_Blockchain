@@ -1,0 +1,7 @@
+{
+    "logConfig": {
+        "logFolder": ".//logs//",
+        "logFile": "soCreate-server-%DATE%.log",
+        "logLevel": "info"
+    }
+}
